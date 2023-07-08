@@ -1,4 +1,4 @@
---Data exploaration using Covid-19 vaccination and death data sourced from  https://ourworldindata.org/covid-deaths
+--SQL Queries exploring Covid-19 vaccination and death data sourced from  https://ourworldindata.org/covid-deaths
 --Select * 
 --From PortfolioProject..CovidDeaths$
 --Order by 3,4
